@@ -15,7 +15,7 @@ export function Home (){
         <div className=" m-2 flex flex-auto justify-around h-14 w-80">
            <a className="size-11 m-auto transform transition-transform scale-100 hover:scale-125" href="mailto:contato@grceh.com" target='_blank'><IconEmail /></a>
            <a className="size-10 m-auto transform transition-transform scale-100 hover:scale-125" href='https://github.com/henrique-griepp' target='_blank'><IconGithub/></a>
-           <a className="size-10 m-auto transform transition-transform scale-100 hover:scale-125" href='https://www.instagram.com/henriquegc.code/' target='_blank'><IconInstagram/></a>
+           <a className="size-10 m-auto transform transition-transform scale-100 hover:scale-125" href='https://www.instagram.com/henriquegc.dev/' target='_blank'><IconInstagram/></a>
            <a className="size-10 m-auto transform transition-transform scale-100 hover:scale-125" href='https://www.linkedin.com/in/henriquegriepp/' target='_blank'><IconLinkedin/></a>
         </div>
     </main>
