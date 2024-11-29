@@ -1,6 +1,6 @@
 
 
-import IconEmail from '@/assets/img/envelope'
+// import IconEmail from '@/assets/img/envelope'
 import IconGithub from '@/assets/img/github'
 import IconInstagram from '@/assets/img/instagram'
 import IconLinkedin from '@/assets/img/linkedin'
